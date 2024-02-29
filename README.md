@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm RacoonDevRock☕</h1>
 <h3 align="center">A self-taught backend programmer constantly learning, and eager to create algorithmic solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=racoondevrock" alt="racoondevrock" /></a> </p>
-
 - 🔭 I’m currently working on **my Personal Projects**
 
 - 🌱 I’m currently learning **Java, Springboot, build API RESTful,...**
 
-- 👨‍💻 All of my projects are available at [GitHub (FoodHub and iRead)](GitHub (FoodHub and iRead))
+- 👨‍💻 All of my projects are available at GitHub [FoodHub](https://github.com/RacoonDevRock/iRead-Project-Narrative](https://github.com/RacoonDevRock/FoodHub-Project)
 
 - 📫 How to reach me **nothicc04@gmail.com**
 
