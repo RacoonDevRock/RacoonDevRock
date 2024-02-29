@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Springboot, build API RESTful,...**
 
-- 👨‍💻 All of my projects are available at GitHub [FoodHub](https://github.com/RacoonDevRock/iRead-Project-Narrative](https://github.com/RacoonDevRock/FoodHub-Project)
+- 👨‍💻 All of my projects are available at GitHub [FoodHub](https://github.com/RacoonDevRock/FoodHub-Project)
 
 - 📫 How to reach me **nothicc04@gmail.com**
 
