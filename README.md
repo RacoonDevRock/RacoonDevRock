@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm RacoonDevRock☕</h1>
 <h3 align="center">A self-taught backend programmer constantly learning, and eager to create algorithmic solutions.</h3>
 
-- 🔭 I’m currently working on **my Personal Projects**
+- 🔭 I’m currently working on [iMechanic-Project](https://github.com/iMechanic-Project).
 
-- 🌱 I’m currently learning **Java, Springboot, build API RESTful,...**
+- 🌱  I am currently building in **Java, Springboot, RESTful API and Back-End** for web applications.
 
 - 👨‍💻 All of my projects are available at GitHub [FoodHub](https://github.com/RacoonDevRock/FoodHub-Project), [iRead](https://github.com/RacoonDevRock/iRead-Project-Narrative) and [Mobile App](https://github.com/RacoonDevRock/AppRutasProject)
 
