@@ -1,7 +1,7 @@
 # RacoonDevRock
 <br clear="both">
 
-<p align="left">👋 Hi, I’m Guillermo Palacios AKA RacoonDevRock<br>🔭 I’m currently working on [iMechanic-Project](https://github.com/iMechanic-Project)<br>📫 How to reach me [nothicc04@gmail.com](mailto:nothicc04@gmail.com)</p>
+<p align="left">👋 Hi, I’m Guillermo Palacios AKA RacoonDevRock<br>🔭 Self-taught backend programmer for fun<br>📫 How to reach me <a href="mailto:nothicc04@gmail.com">nothicc04@gmail.com</a></p>
 
 ###
 
