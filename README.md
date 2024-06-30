@@ -1,7 +1,7 @@
 # RacoonDevRock
 <br clear="both">
 
-<p align="left">👋 Hi, I’m Guillermo Palacios AKA RacoonDevRock<br>🔭 I’m currently working on iMechanic-Project https://github.com/iMechanic-Project<br>📫 How to reach me nothicc04@gmail.com</p>
+<p align="left">👋 Hi, I’m Guillermo Palacios AKA RacoonDevRock<br>🔭 I’m currently working on [iMechanic-Project](https://github.com/iMechanic-Project)<br>📫 How to reach me [nothicc04@gmail.com](mailto:nothicc04@gmail.com)</p>
 
 ###
 
@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <a href="nothicc04@gmail.com" target="_blank">
+  <a href="mailto:nothicc04@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/guillermo-sanchez-palacios" target="_blank">
