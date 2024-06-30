@@ -1,16 +1,10 @@
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<p align="left">👋 Hi, I’m Guillermo Palacios AKA RacoonDevRock<br>🔭 I’m currently working on iMechanic-Project https://github.com/iMechanic-Project<br>📫 How to reach me nothicc04@gmail.com</p>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="154" src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2For68a2tqrbm5t5d36bwa.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -26,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="nothicc04@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -34,11 +28,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RacoonDevRock/RacoonDevRock/output/snake.svg" alt="Snake animation" />
 
 ###
